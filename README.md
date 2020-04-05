@@ -1,6 +1,6 @@
 # SpotiApp
 
-![alt text](https://www.https://github.com/icarpio/SpotiApp/blob/master/src/assets/img/banner-ico.png)
+![alt text](https://developer.spotify.com/assets/branding-guidelines/logo@2x.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
