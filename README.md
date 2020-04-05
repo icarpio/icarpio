@@ -1,6 +1,6 @@
 # SpotiApp
 
-![alt text](https://i0.pngocean.com/files/18/942/403/spotify-computer-icons-image-music-download-transparency-logo-spotify-transparent.jpg)
+![alt text](https://www.stickpng.com/assets/images/59b5bb466dbe923c39853e00.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
