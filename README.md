@@ -1,6 +1,6 @@
 # SpotiApp
 
-![alt text](https://www.stickpng.com/assets/images/59b5bb466dbe923c39853e00.png)
+![alt text](https://www.https://github.com/icarpio/SpotiApp/blob/master/src/assets/img/banner-ico.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
