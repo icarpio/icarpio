@@ -1,0 +1,5 @@
+<ul>
+    <li *ngFor="let c of countries">
+        <img src="{{c.flag}}" width="30" height="30" alt="">&nbsp; &nbsp;{{c.name}} -- {{c.population | number}}
+    </li>
+</ul>
