@@ -1,5 +1,5 @@
 # SpotiApp 
 
-![alt text](https://developer.spotify.com/assets/branding-guidelines/logo@2x.png)
+![alt text](https://download.logo.wine/logo/Spotify/Spotify-Logo.wine.png)
 
 ***Learning GitHub**
